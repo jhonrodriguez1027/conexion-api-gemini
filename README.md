@@ -1,3 +1,4 @@
+<img width="1252" height="196" alt="REPORT" src="https://github.com/user-attachments/assets/4cb719f2-050b-4787-aafd-bf13cb355b5c" />
 # 🤖 Conexión a Gemini API
 
 Script en Python para conectar y probar la API de Google Gemini, mostrando cómo interactuar con modelos de lenguaje avanzados.
