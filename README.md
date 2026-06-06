@@ -28,12 +28,12 @@ Este proyecto implementa una conexión básica a la API de Google Gemini utiliza
 4. Crea una nueva clave y cópiala
 
 ## 🚀 Instalación y Ejecución
-    Crear y activar entorno virtual
-python -m venv venv
+ Crear y activar entorno virtual
+ python -m venv venv
 venv\Scripts\activate
 
-     Instalar dependencias
-pip install -r requirements.txt
+Instalar dependencias
+        pip install -r requirements.txt
 
 
 <img width="1178" height="195" alt="Captura de pantalla 2026-06-06 100246" src="https://github.com/user-attachments/assets/bf867d16-9cc4-4881-a79e-30093e32c3b3" />
