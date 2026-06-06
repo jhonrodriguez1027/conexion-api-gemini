@@ -1,13 +1,24 @@
 
 # 🤖 Conexión a Gemini API
 
-Script en Python para conectar y probar la API de Google Gemini, mostrando cómo interactuar con modelos de lenguaje avanzados.
+
+Este proyecto implementa una conexión básica a la API de Google Gemini utilizando Python. El objetivo es validar la configuración del entorno de desarrollo, verificar la conectividad a Internet y realizar una consulta a un modelo de inteligencia artificial mediante la API de Gemini.Script en Python para conectar y probar la API de Google Gemini, mostrando cómo interactuar con modelos de lenguaje avanzados.
 
 ## 📋 Requisitos Previos
 
 - Python 3.8 o superior
 - Cuenta de Google Cloud
 - API Key de Gemini (gratuita)
+-
+-estructura del proyecto
+- Gemini-API/
+│
+├── app_gemini.py
+├── prueba_entornno.py
+├── requirements.txt
+├── .env
+├── .gitignore
+├── README.md
 
 ## 🔑 Obtener una API Key
 
