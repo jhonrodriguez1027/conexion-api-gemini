@@ -1,3 +1,4 @@
+<img width="1178" height="195" alt="Captura de pantalla 2026-06-06 100246" src="https://github.com/user-attachments/assets/33dca61e-4579-43ea-aa56-6d71c6f4dcb8" />
 
 # 🤖 Conexión a Gemini API
 
@@ -28,7 +29,8 @@ Este proyecto implementa una conexión básica a la API de Google Gemini utiliza
 4. Crea una nueva clave y cópiala
 
 ## 🚀 Instalación y Ejecución
-![Uploading Captura de pantalla 2026-06-06 100246.png…]()
+<img width="1178" height="195" alt="Captura de pantalla 2026-06-06 100246" src="https://github.com/user-attachments/assets/bf867d16-9cc4-4881-a79e-30093e32c3b3" />
+
 
 <img width="1252" height="196" alt="REPORT" src="https://github.com/user-attachments/assets/4cb719f2-050b-4787-aafd-bf13cb355b5c" />
 ### 1. Clonar el repositorio
