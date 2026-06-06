@@ -11,14 +11,15 @@ Este proyecto implementa una conexión básica a la API de Google Gemini utiliza
 - API Key de Gemini (gratuita)
 -
 -estructura del proyecto
-- Gemini-API/
-│
-├── app_gemini.py
-├── prueba_entornno.py
-├── requirements.txt
-├── .env
-├── .gitignore
-├── README.md
+  - Gemini-API/
+  │
+  ├── app_gemini.py
+  ├── prueba_entornno.py
+  ├── requirements.txt
+  ├── .env
+  ├── .gitignore
+  ├── README.md
+
 
 ## 🔑 Obtener una API Key
 
@@ -33,8 +34,31 @@ Este proyecto implementa una conexión básica a la API de Google Gemini utiliza
 venv\Scripts\activate
 
 Instalar dependencias
-        pip install -r requirements.txt
+  pip install -r requirements.txt 
 
+  
+Configurar la API Key
+Crea un archivo llamado .env en la raíz del proyecto (junto a app.py).
+Abre el archivo con bloc de notas y escribe exactamente (sin comillas):
+
+text
+GOOGLE_API_KEY=tu_clave_api_aqui
+Importante: Reemplaza tu_clave_api_aqui por la clave que copiaste.
+
+
+5. Verificar el entorno (opcional)
+Ejecuta el script de verificación (si lo tienes) para comprobar entorno virtual e Internet:
+
+python prueba_entornno.py
+Salida esperada:
+
+text
+Verificando configuración del entorno
+👍 Entorno virtual detectado.
+👍 Conexión a Internet verificada.
+6. Ejecutar la consulta a Gemini
+bash
+python app.py
 
 <img width="1178" height="195" alt="Captura de pantalla 2026-06-06 100246" src="https://github.com/user-attachments/assets/bf867d16-9cc4-4881-a79e-30093e32c3b3" />
 
